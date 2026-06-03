@@ -128,7 +128,7 @@ print(me.motto())
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=deepagithub&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/deepagithub)
+[![trophy]()
 
 </div>
 
@@ -198,8 +198,8 @@ print(me.motto())
 | 🖼️ Project | 🛠️ Stack | ✨ Highlights |
 |:----------:|:--------:|:------------:|
 | [🤲 **MUDRAS — Web Page Design**](https://github.com/deepagithub) | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Inspired by *MUDRAS OF INDIA* — showcases India's yoga hand gestures with descriptions, images, techniques & benefits 🙏 |
-| [🎤 **Random Self-Introduction Generator**](https://github.com/deepagithub) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | Python-powered generator — students input name, college, experience & interests; auto-creates an impressive self-intro instantly ✨ |
-| [🎵 **Music Recommendation via Emotion AI**](https://github.com/deepagithub) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) | Captures **facial emotions** via webcam using ML, recommends music & auto-redirects to **YouTube** 🎬🤯 |
+| [🎤 **Random Self-Introduction Generator**](https://github.com/) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | Python-powered generator — students input name, college, experience & interests; auto-creates an impressive self-intro instantly ✨ |
+| [🎵 **Music Recommendation via Emotion AI**](https://github.com/) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) | Captures **facial emotions** via webcam using ML, recommends music & auto-redirects to **YouTube** 🎬🤯 |
 
 </div>
 
@@ -254,7 +254,7 @@ const deepaLearning = {
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-%40deepagithub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepagithub)
+[![GitHub](https://img.shields.io/badge/GitHub-%40deepagithub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepa%20Srinivasan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepa)
 [![Gmail](https://img.shields.io/badge/Gmail-deepacse51%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepacse51@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B91%2063796%2065268-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/916379665268)
