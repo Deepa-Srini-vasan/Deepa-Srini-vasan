@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Deepa%20Srinivasan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Web%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20CS%20Student&descAlignY=62&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Deepa%20Srinivasan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Web%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20CS%20Graduate&descAlignY=62&descSize=16)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Deepa+%F0%9F%91%8B;Web+Developer+%7C+UI%2FUX+Enthusiast;Building+beautiful+%26+functional+web+experiences;Passionate+about+WordPress+%26+React)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Deepa+%F0%9F%91%8B;Web+Developer+%7C+UI%2FUX+Enthusiast;B.E.+CS+Graduate+%7C+CGPA+8.13;Building+beautiful+%26+functional+web+experiences)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=deepagithub&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/deepagithub)
 
@@ -19,7 +19,7 @@ class Deepa:
     def __init__(self):
         self.name         = "Deepa Srinivasan"
         self.location     = "Salem, Tamil Nadu, India 🇮🇳"
-        self.degree       = "B.E. Computer Science & Engineering"
+        self.degree       = "B.E. Computer Science & Engineering ✅"
         self.college      = "AVS Engineering College"
         self.cgpa         = 8.13
 
@@ -209,7 +209,7 @@ print(me.motto())
 
 | Degree / Qualification | Institution | Year | Score |
 |:----------------------:|:-----------:|:----:|:-----:|
-| B.E. Computer Science & Engineering | AVS Engineering College, Salem | Expected 2025 | CGPA: 8.13 |
+| B.E. Computer Science & Engineering | AVS Engineering College, Salem | 2025 ✅ | CGPA: 8.13 |
 | Higher Secondary (Class 12) | Municipal Girls Hr Sec School, Salem | — | 86.99% |
 | Secondary School (SSLC) | Municipal High School, Salem | — | 79.4% |
 
