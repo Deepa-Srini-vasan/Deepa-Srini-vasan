@@ -100,7 +100,7 @@ print(me.motto())
 <a href="https://github.com/deepagithub">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deepagithub&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
-<a href="https://github.com/deepagithub">
+<a href="https://github.com/Deepa-Srini-vasan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepagithub&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
@@ -118,7 +118,7 @@ print(me.motto())
 
 <div align="center">
 
-[![Deepa's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deepagithub&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/deepagithub)
+[![Deepa's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deepagithub&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/Deepa-Srini-vasan)
 
 </div>
 
@@ -197,7 +197,7 @@ print(me.motto())
 
 | 🖼️ Project | 🛠️ Stack | ✨ Highlights |
 |:----------:|:--------:|:------------:|
-| [🤲 **MUDRAS — Web Page Design**](https://github.com/deepagithub) | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Inspired by *MUDRAS OF INDIA* — showcases India's yoga hand gestures with descriptions, images, techniques & benefits 🙏 |
+| [🤲 **MUDRAS — Web Page Design**](https://github.com/Deepa-Srini-vasan) | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Inspired by *MUDRAS OF INDIA* — showcases India's yoga hand gestures with descriptions, images, techniques & benefits 🙏 |
 | [🎤 **Random Self-Introduction Generator**](https://github.com/) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | Python-powered generator — students input name, college, experience & interests; auto-creates an impressive self-intro instantly ✨ |
 | [🎵 **Music Recommendation via Emotion AI**](https://github.com/) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) | Captures **facial emotions** via webcam using ML, recommends music & auto-redirects to **YouTube** 🎬🤯 |
 
