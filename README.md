@@ -10,11 +10,11 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=deepagithub&color=70a5fd&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/deepagithub)
+[![Profile Views](https://komarev.com/ghpvc/?username=Deepa-Srini-vasan&color=70a5fd&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Deepa-Srini-vasan)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/deepagithub?style=for-the-badge&color=bf91f3&labelColor=0d1117&label=FOLLOWERS)](https://github.com/deepagithub)
+[![GitHub followers](https://img.shields.io/github/followers/Deepa-Srini-vasan?style=for-the-badge&color=bf91f3&labelColor=0d1117&label=FOLLOWERS)](https://github.com/Deepa-Srini-vasan)
 &nbsp;
-[![GitHub stars](https://img.shields.io/github/stars/deepagithub?style=for-the-badge&color=38bdae&labelColor=0d1117&label=STARS)](https://github.com/deepagithub)
+[![GitHub stars](https://img.shields.io/github/stars/Deepa-Srini-vasan?style=for-the-badge&color=38bdae&labelColor=0d1117&label=STARS)](https://github.com/Deepa-Srini-vasan)
 
 </div>
 
@@ -97,18 +97,18 @@ print(me.motto())
 
 <div align="center">
 
-<a href="https://github.com/deepagithub">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deepagithub&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+<a href="https://github.com/Deepa-Srini-vasan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deepa-Srini-vasan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
 <a href="https://github.com/Deepa-Srini-vasan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepagithub&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepa-Srini-vasan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=deepagithub&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Deepa-Srini-vasan&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
@@ -198,8 +198,8 @@ print(me.motto())
 | 🖼️ Project | 🛠️ Stack | ✨ Highlights |
 |:----------:|:--------:|:------------:|
 | [🤲 **MUDRAS — Web Page Design**](https://github.com/Deepa-Srini-vasan) | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Inspired by *MUDRAS OF INDIA* — showcases India's yoga hand gestures with descriptions, images, techniques & benefits 🙏 |
-| [🎤 **Random Self-Introduction Generator**](https://github.com/) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | Python-powered generator — students input name, college, experience & interests; auto-creates an impressive self-intro instantly ✨ |
-| [🎵 **Music Recommendation via Emotion AI**](https://github.com/) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) | Captures **facial emotions** via webcam using ML, recommends music & auto-redirects to **YouTube** 🎬🤯 |
+| [🎤 **Random Self-Introduction Generator**](https://github.com/Deepa-Srini-vasan) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | Python-powered generator — students input name, college, experience & interests; auto-creates an impressive self-intro instantly ✨ |
+| [🎵 **Music Recommendation via Emotion AI**](https://github.com/Deepa-Srini-vasan) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) | Captures **facial emotions** via webcam using ML, recommends music & auto-redirects to **YouTube** 🎬🤯 |
 
 </div>
 
@@ -254,8 +254,12 @@ const deepaLearning = {
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-%40deepagithub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-%40Deepa--Srini--vasan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deepa-Srini-vasan)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepa%20S-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepa-s-9604102a2/)
+&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-deepacse51%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepacse51@gmail.com)
+&nbsp;
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B91%2063796%2065268-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/916379665268)
 
 </div>
