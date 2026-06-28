@@ -118,7 +118,7 @@ print(me.motto())
 
 <div align="center">
 
-[![Deepa's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deepagithub&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/Deepa-Srini-vasan)
+[![Deepa's Activity Graph]()](https://github.com/Deepa-Srini-vasan)
 
 </div>
 
