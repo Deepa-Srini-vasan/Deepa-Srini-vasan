@@ -255,7 +255,7 @@ const deepaLearning = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40deepagithub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepa%20Srinivasan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepa)
+[![LinkedIn](linkedin.com/in/deepa-s-9604102a2)](linkedin.com/in/deepa-s-9604102a2)
 [![Gmail](https://img.shields.io/badge/Gmail-deepacse51%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepacse51@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B91%2063796%2065268-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/916379665268)
 
